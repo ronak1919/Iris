@@ -16,8 +16,8 @@
 */
 
 #include <iostream>
-#include "piece.h"
 #include "enums.h"
+#include "piece.h"
 
 int main()
 {
